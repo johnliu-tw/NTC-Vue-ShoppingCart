@@ -21,3 +21,13 @@ export default {
     },
 }
 </script>
+<style scoped>
+    .row{
+        flex-direction: flex;
+        display: flex;
+        flex-wrap: wrap;
+        width: 80%;
+        margin: auto;
+        justify-content: center;
+    }
+</style>
